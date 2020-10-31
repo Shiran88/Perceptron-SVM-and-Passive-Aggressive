@@ -1,1 +1,1 @@
-# Perceptron-SVM-and-Passive-Aggressive
+# Perceptron-SVM-and-Passive-Aggressive:In this exercise Perceptron, SVM and PA are applied and in addition there is a comparison between them. Are provided A training kit of 3,286 examples in which they were classified between 3 classes.
